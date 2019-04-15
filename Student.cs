@@ -16,7 +16,7 @@ namespace StudentsStruct
         public int informaticsMark;
         public string scholarship;
         public int Age;
-        
+      
 
 
 
