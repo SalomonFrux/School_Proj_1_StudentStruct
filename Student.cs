@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StudentsStruct
 {
@@ -20,7 +16,7 @@ namespace StudentsStruct
         public int informaticsMark;
         public string scholarship;
         public int Age;
-        //public int Age { set; get; }
+        
 
 
 
