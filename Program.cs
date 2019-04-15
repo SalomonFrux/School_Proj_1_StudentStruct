@@ -158,7 +158,7 @@ namespace StudentsStruct
                 {
                     Console.ForegroundColor = ConsoleColor.White;
 
-                    Console.WriteLine("\n" + "Full Name: {0} \t\t| Age:{1} ", std.firstName + " " + std.surName, std.Age);
+                   // Console.WriteLine("\n" + "Full Name: {0} \t\t| Age:{1} ", std.firstName + " " + std.surName, std.Age);
                 }
             }
 
@@ -166,6 +166,6 @@ namespace StudentsStruct
     }
 }
 
-
+//this is the console app version 
 
 
